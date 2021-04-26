@@ -2043,10 +2043,10 @@ fb-watchman@^2.0.0:
   dependencies:
     bser "2.1.1"
 
-feathers-mongoose@8.3.1:
-  version "8.3.1"
-  resolved "https://registry.yarnpkg.com/feathers-mongoose/-/feathers-mongoose-8.3.1.tgz#240ecb746e1da26e05fb85d16148c84ec41f8a80"
-  integrity sha512-N89kOOp06PaYwyK2REI56fDSPDBKYuJc/E6uqCUu4+nQ6wvM3m+L4aX6lfXWBowD7MWpFzNDG/T9GOGjzrQ55g==
+feathers-mongoose@8.3.3:
+  version "8.3.3"
+  resolved "https://registry.yarnpkg.com/feathers-mongoose/-/feathers-mongoose-8.3.3.tgz#cee61ef003b69caa56cc2587e840d66a7efaca5c"
+  integrity sha512-9p9UpIk4ninxPrqrgZLE2dxy9/G/Z0jgEmVvtLsBadJIukGdbNnhL48Y02r7GLWelaGLhgWGDpZDtHK1JTnfZQ==
   dependencies:
     "@feathersjs/adapter-commons" "^4.4.3"
     "@feathersjs/commons" "^4.4.3"
