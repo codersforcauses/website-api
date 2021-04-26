@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@types/compression": "1.7.0",
-    "@types/cors": "2.8.7",
+    "@types/cors": "2.8.10",
     "@types/faker": "5.1.2",
     "@types/helmet": "0.0.48",
     "@types/jest": "26.0.14",
