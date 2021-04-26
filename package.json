@@ -51,7 +51,7 @@
     "@types/cors": "2.8.7",
     "@types/faker": "5.1.2",
     "@types/helmet": "0.0.48",
-    "@types/jest": "26.0.14",
+    "@types/jest": "26.0.23",
     "@types/mongoose": "5.7.36",
     "axios": "0.20.0",
     "faker": "5.1.0",
